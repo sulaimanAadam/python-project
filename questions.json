@@ -1,0 +1,76 @@
+{ 
+  "questions": [
+    {
+        "question": "what is the largest planet in our solar system?",
+        "option": ["earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter" 
+    },
+
+      {
+        "question": "which element has the chemical symbol '0'?",
+        "option": ["Osmium", "Oxygen", "Gold", "Oganesson"],
+        "answer": "Oxygen" 
+    },
+
+      {
+        "question": "who wrote 'To kill mockingbird'?",
+        "option": ["Harper Lee",
+                   "Marh Twain",
+                    "Ernest Hemingway",
+                    "F. Scott Fitzgerald"],
+        "answer": "Harper Lee" 
+    },
+
+      {
+        "question": "which planet is closest to the sun?",
+        "option": ["earth", "Mars", "Mercury", "Venus"],
+        "answer": "Mercury" 
+    },
+
+      {
+        "question": "who painted the Mona Lisa?",
+        "option": ["Vincent van gogh",
+                    "Pablo Picasso",
+                    "Leonardo da Vinci",
+                    "Michelangelo"],
+        "answer": "Leonardo da Vinci" 
+    },
+
+    {
+        "question": "what is the hardest natural substance on earth?",
+        "option": ["Gold", "Iron", "diamond", "Platinum"],
+        "answer": "Diamond"
+    },
+
+    {
+        "question": "what is the capital of Canada?",
+        "option": ["Toronto", "Ottawa", "Montreal", "Vancouver"],
+        "answer": "Toronto"
+
+    },
+
+     {
+        "question": "what is the square root of 64?",
+        "option": ["6", "7", "8", "9"],
+        "answer": "8"
+
+    },
+
+     {
+        "question": "In which year did the titanic sink?",
+        "option": ["1910", "1912", "1914", "1916"],
+        "answer": "1912"
+
+    },
+
+     {
+        "question": "who discovered penicillin?",
+        "option": ["Marie Curie",
+                   "Alexander Fleming",
+                    "Isaac Newton",
+                    "Albert Einstein"],
+        "answer": "Alexander Fleming"
+
+    }
+]
+}
